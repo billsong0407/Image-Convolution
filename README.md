@@ -27,11 +27,11 @@ is represented in the **kernel** as<br />
 ./filter input.ppm kernel output.ppm
 ```
 ### Orignal Image
-![](house.jpg | width=100)
+![](house.jpg)
 
 ### Edge Detection
 After:
-![](Edge%20Detection/output.jpg | width=100)
+![](Edge%20Detection/output.jpg)
 
 Credit:
 The house image is downloaded from https://www.deviantart.com/uncledave/art/FARM-HOUSE-BLACK-AND-WHITE-36822107
