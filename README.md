@@ -10,7 +10,7 @@ n<br />
 scale<br />
 n x n matrix<br />
 
-Example:
+Example:<br />
 [ 1 1 1 ] <br />
 1/9 [ 1 1 1 ] <br />
     [ 1 1 1 ] <br />
@@ -26,6 +26,10 @@ is represented in the **kernel** as<br />
 ```bash
 ./filter input.ppm kernel output.ppm
 ```
+
+### Edge Detection
+Before
+![](Edge%20Detection/output.jpg)
 
 Credit:
 The house image is downloaded from https://www.deviantart.com/uncledave/art/FARM-HOUSE-BLACK-AND-WHITE-36822107
