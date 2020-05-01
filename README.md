@@ -6,12 +6,16 @@ The program reads a PPM image stored in **input.ppm**, reads a Kernel stores in 
 
 ### Format of an n x n Kernel
 n
+
 scale
+
 n x n matrix
 
 Example:
     [ 1 1 1 ]
+    
 1/9 [ 1 1 1 ]
+
     [ 1 1 1 ]
     
 is represented in the **kernel** as
