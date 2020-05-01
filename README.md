@@ -10,9 +10,7 @@ n<br />
 scale<br />
 n x n matrix<br />
 
-Example<br />
 
-    [ 1 1 1 ]. <br />
 1/9 [ 1 1 1 ]. <br />
     [ 1 1 1 ]. <br />
     
