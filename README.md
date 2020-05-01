@@ -5,22 +5,22 @@ It is used for blurring, sharpening, embossing, edge detection, and more. This i
 The program reads a PPM image stored in **input.ppm**, reads a Kernel stores in **kernel**, applies the kernel on the image, writes the resulting image into file output.ppm
 
 ### Format of an n x n Kernel
-n
-scale
-n x n matrix
+n<br />
+scale<br />
+n x n matrix<br />
 
-Example:
+Example:<br />
 
-    [ 1 1 1 ]  
-1/9 [ 1 1 1 ]
-    [ 1 1 1 ]
+    [ 1 1 1 ]. <br />
+1/9 [ 1 1 1 ]. <br />
+    [ 1 1 1 ]. <br />
     
-is represented in the **kernel** as
-3
-9
-1 1 1
-1 1 1
-1 1 1
+is represented in the **kernel** as<br />
+3<br />
+9<br />
+1 1 1<br />
+1 1 1<br />
+1 1 1<br />
 
 ### Program execution
 ```bash
