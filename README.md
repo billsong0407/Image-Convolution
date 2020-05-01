@@ -11,9 +11,9 @@ scale<br />
 n x n matrix<br />
 
 Example:
-
-1/9 [ 1 1 1 ]. <br />
-    [ 1 1 1 ]. <br />
+[ 1 1 1 ] <br />
+1/9 [ 1 1 1 ] <br />
+    [ 1 1 1 ] <br />
     
 is represented in the **kernel** as<br />
 3<br />
@@ -22,7 +22,7 @@ is represented in the **kernel** as<br />
 1 1 1<br />
 1 1 1<br />
 
-### Program execution
+### Program Execution
 ```bash
 ./filter input.ppm kernel output.ppm
 ```
