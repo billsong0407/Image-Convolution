@@ -30,8 +30,10 @@ is represented in the **kernel** as<br />
 ![](house.jpg)
 
 ### Edge Detection
-After:
 ![](Edge%20Detection/output.jpg)
+
+### Sharpen
+![](Sharpen/output.jpg)
 
 Credit:
 The house image is downloaded from https://www.deviantart.com/uncledave/art/FARM-HOUSE-BLACK-AND-WHITE-36822107
