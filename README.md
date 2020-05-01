@@ -5,11 +5,12 @@ It is used for blurring, sharpening, embossing, edge detection, and more. This i
 The program reads a PPM image stored in **input.ppm**, reads a Kernel stores in **kernel**, applies the kernel on the image, writes the resulting image into file output.ppm
 
 ### Format of an n x n Kernel
+
 n<br />
 scale<br />
 n x n matrix<br />
 
-Example:<br />
+Example<br />
 
     [ 1 1 1 ]. <br />
 1/9 [ 1 1 1 ]. <br />
