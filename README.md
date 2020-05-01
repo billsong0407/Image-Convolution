@@ -26,10 +26,12 @@ is represented in the **kernel** as<br />
 ```bash
 ./filter input.ppm kernel output.ppm
 ```
+### Orignal Image
+![](house.jpg | width=100)
 
 ### Edge Detection
-Before
-![](Edge%20Detection/output.jpg)
+After:
+![](Edge%20Detection/output.jpg | width=100)
 
 Credit:
 The house image is downloaded from https://www.deviantart.com/uncledave/art/FARM-HOUSE-BLACK-AND-WHITE-36822107
